@@ -17,3 +17,5 @@ Why should I know
 ## Why
 
 Don't you know?
+
+Copyright: AmIRite?!
