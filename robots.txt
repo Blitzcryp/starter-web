@@ -1,3 +1,7 @@
 # robotstxt.org/
 
+<<<<<<< HEAD
 User-agent: I am megatrobleh
+=======
+User-agent: yeeeet
+>>>>>>> simple-changes
