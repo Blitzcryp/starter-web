@@ -1,0 +1,51 @@
+* [33m5f67af7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mmyfeature[m[33m)[m thanks to all my students
+* [33mf45d700[m Adding more text to readme.md
+* [33m09f6896[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Added exception for *.orig files
+*   [33m1759e0b[m Done resolving merge conflicts
+[32m|[m[33m\[m  
+[32m|[m * [33mdee25d9[m Making changes to simple.html
+* [33m|[m [33mb714d7d[m Adding conflicting changes (on purpose) for git Example
+[33m|[m[33m/[m  
+*   [33m4ad0bf4[m Merging changes from simple-changes branch
+[34m|[m[35m\[m  
+[34m|[m * [33m0726137[m Adding team memers to humans.txt
+* [35m|[m [33m965df19[m Adding instructions on how to contribute
+[35m|[m[35m/[m  
+* [33m22e7457[m I added megableh
+*   [33m10ca7ad[m Merge changes from simple-change branch
+[36m|[m[1;31m\[m  
+[36m|[m * [33m0a02d0d[m Adding team member to humans.txt
+* [1;31m|[m [33m9a314f5[m Adding please help me to readme
+[1;31m|[m[1;31m/[m  
+*   [33m20c9c46[m Merge branch 'add-copyright' into master
+[1;32m|[m[1;33m\[m  
+[1;32m|[m * [33mbd1ac2d[m Adding copyright notice to readme
+[1;32m|[m * [33m36e31b5[m Adding copyright notice
+[1;32m|[m[1;32m/[m  
+* [33m1b3eec8[m Changing title of HTML file
+* [33m64d8a85[m Updating repo with changes from compare sectionn
+* [33m1aa1a9e[m yeet
+* [33m3589f30[m Adding paragraphs to sections
+* [33me9b6421[m New fields to README.md
+* [33m753ba23[m Removing *.log on .gitingore Adding exception for all the files in the log/ folder
+* [33m54f9303[m Adding *.log exclusion to .gitignore
+* [33maa8e1ae[m Adding .gitignore to my repo
+* [33m855abb7[m Deleting level1 and all children
+* [33m2d2f2c7[m Deleted kitty.text file
+* [33m63354bf[m I deleted the doomed file >:)
+* [33maa884a6[m Commiting a file renamed using windows explorer
+* [33mb159098[m Moving level 2 file back from level3 to level2
+* [33m21c6c5a[m Moving file from lvl 2 to lvl 3
+* [33mdcf84bd[m Renaming level 2 file
+* [33m42df740[m Adding a level3 renamed file
+* [33me0fd3a8[m Multi-layered commit
+* [33m85efbf4[m More kitten for my little kitties
+* [33mf7da4d3[m Adding more kittens to the repo
+* [33m11a92ca[m Adding more ipsum text
+* [33md5ff9e9[m my first commit!!
+*   [33m4beb7f0[m Merge pull request #6 from jasongtaylor/feature-readme
+[1;34m|[m[1;35m\[m  
+[1;34m|[m * [33me73f914[m Adding Purpose section to README
+[1;34m|[m * [33m34f563b[m Adding README file
+[1;34m|[m[1;34m/[m  
+* [33m5c05047[m Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
