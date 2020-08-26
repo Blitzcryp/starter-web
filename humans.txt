@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+	yEET
 	Jason Taylor jason@git.training @awesomejt
 	Jason Taylor jason@git.training @awesomejt
 	Jason Taylor jason@git.training @awesomejt
